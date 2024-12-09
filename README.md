@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Bhavya!
+I’m a sophomore at UMass Amherst, diving into the exciting worlds of Computer Science and Mathematics. My journey began with a fascination for solving puzzles and tackling complex problems—whether it’s cracking codes or untangling intricate equations. This curiosity led me to blend my love for analytics and technology with a growing interest in consulting.
+
+I’m passionate about finding data-driven solutions and turning them into actionable strategies. I thrive when I’m working alongside others, brainstorming ideas, and tackling challenges together. For me, there’s nothing quite like the thrill of collaborating on a project and seeing our collective efforts make a real impact.
+
+As I look ahead, I’m eager to dive into internship opportunities where I can apply my skills in data analysis and business strategy. I’m excited about connecting with professionals who share my enthusiasm and learning from their experiences. Let’s work together to solve problems and drive meaningful change!
 
 <!--
 **bhavya632/bhavya632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
