@@ -10,7 +10,6 @@ As I look ahead, I’m eager to dive into internship opportunities where I can a
 
 - 🔭 PROJECTS
   1. Road Safety Intelligence LLM @Michelin Mobility Intelligence: Collaborating on a project aimed at enhancing road safety through a user-friendly natural language interface to automate spatial data collection, analysis, and visualization in Google Colab using Python and various libraries such as Pandas, NumPy, and Matplotlib and developing a demo tool to showcase the integrated capabilities of the model, leveraging Kepler.gl for geospatial visualization and utilizing machine learning and large language model (LLM) techniques to enrich user experiences and enable interactive dialogue. https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM
-  2. 
  
 - 👯 EXTRACURRICULARS
   1. Resident Assistant: Facilitated community development and oversaw student learning initiatives for a community of 100+ residents as a Resident Assistant. Directly ensured the safety of and fostered a sense of community residents by consistently demonstrating ethical behavior and serving as both a role model and guide. Created engaging monthly events to increase resident participation and enhance the living experience.
