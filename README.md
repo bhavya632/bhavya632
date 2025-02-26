@@ -17,6 +17,7 @@ As I look ahead, I’m eager to dive into internship opportunities where I can a
  
 - CERTIFICATIONS
   1. Foundations of Machine Learning by Cornell University
+  2. Microsoft Certified: Azure AI Fundamentals
  
 - 📫 How to reach me:
   1. school email- bhavyaagarwa@umass.edu
