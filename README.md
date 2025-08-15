@@ -1,41 +1,55 @@
-## Hi there 👋 I am Bhavya!
-I’m a sophomore at UMass Amherst, diving into the exciting worlds of Computer Science and Mathematics. My journey began with a fascination for solving puzzles and tackling complex problems—whether it’s cracking codes or untangling intricate equations. This curiosity led me to blend my love for analytics and technology with a growing interest in consulting.
+# 👋 Hi, I'm Bhavya Agarwal!
 
-I’m passionate about finding data-driven solutions and turning them into actionable strategies. I thrive when I’m working alongside others, brainstorming ideas, and tackling challenges together. For me, there’s nothing quite like the thrill of collaborating on a project and seeing our collective efforts make a real impact.
+**AI/ML Engineering Intern | Computer Science & Mathematics @ UMass Amherst | Linguistics Minor**
 
-As I look ahead, I’m eager to dive into internship opportunities where I can apply my skills in machine learning and data analysis. I’m excited about connecting with professionals who share my enthusiasm and learning from their experiences. Let’s work together to solve problems and drive meaningful change!
+---
 
+### 🚀 About Me
 
-- 🌱 I’m currently learning Java and Javascript and am well versed in Python (NumPy, Pandas, Scikit-Learn, TensorFlow, etc.), SQL, HTML, and CSS.
+I'm an enthusiastic learner and builder passionate about artificial intelligence, machine learning, and data science. Currently, I'm pursuing a BS in Computer Science and Mathematics with a minor in Linguistics at UMass Amherst, where I'm always looking for ways to blend technology, logic, and language.
 
-- 🔭 PROJECTS
-  1. Road Safety Intelligence LLM @Michelin Mobility Intelligence: Collaborating on a project aimed at enhancing road safety through a user-friendly natural language interface to automate spatial data collection, analysis, and visualization in Google Colab using Python and various libraries such as Pandas, NumPy, and Matplotlib and developing a demo tool to showcase the integrated capabilities of the model, leveraging Kepler.gl for geospatial visualization and utilizing machine learning and large language model (LLM) techniques to enrich user experiences and enable interactive dialogue. https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM
- 
-- 👯 EXTRACURRICULARS
-  1. Resident Assistant: Facilitated community development and oversaw student learning initiatives for a community of 100+ residents as a Resident Assistant. Directly ensured the safety of and fostered a sense of community residents by consistently demonstrating ethical behavior and serving as both a role model and guide. Created engaging monthly events to increase resident participation and enhance the living experience.
-  2. Fellow at Break Through Tech AI: Chosen from over 3,000 applicants for the Break Through Tech AI program, I gained foundational expertise in Machine Learning (ML) and Artificial Intelligence (AI) through an intensive course, earning a certification from Cornell University. Throughout the program, I collaborated with teams to develop real-world AI projects under the guidance of industry experts. Additionally, I honed my leadership skills, focusing on leveraging ML and AI technologies to drive positive social impact.
- 
-- CERTIFICATIONS
-  1. Foundations of Machine Learning by Cornell University
-  2. Microsoft Certified: Azure AI Fundamentals
- 
-- 📫 How to reach me:
-  1. school email- bhavyaagarwa@umass.edu
-  2. personal email- agarwalbhavya337@gmail.com
-  3. mobile- +1 413-315-0000
-  4. linkedin- https://www.linkedin.com/in/bhavyagarwal/
+- 🌱 **Currently Learning:** Advanced ML, Azure & AWS, scalable AI solutions
+- 💼 **Internships/Fellowships:**  
+  - AI/ML Engineering Intern @ Center for Data Science, UMass  
+  - ML/AI Fellow @ Break Through Tech AI (MIT)
+- 📚 **Coursework:** Data Structures, OOP, ML Foundations, AI, Computer Systems, Statistics, ML in Azure, and more
 
-<!--
-**bhavya632/bhavya632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+`Python` | `C` | `Java` | `R` | `MySQL` | `HTML/CSS/JS` | `Microsoft Azure` | `AWS` | `Copilot Studio` | `Git`
+
+---
+
+### 🌟 Featured Projects
+
+- **[Road Safety Intelligence Model](https://github.com/bhavya632/road-safety-intelligence-model)**  
+  _Break Through Tech — Michelin Mobility Intelligence_  
+  Developed a Python/ML/LLM-powered model for spatial data analysis and visualization, with an intuitive NL interface and real-time dialogue.
+
+- **[Airbnb Superhost & Price Prediction Models](https://github.com/bhavya632/airbnb-superhost-price-prediction)**  
+  Independent project using Python, scikit-learn, and data visualization to estimate Airbnb listing prices and predict “Superhost” status.
+
+Want to see more? Check out my [GitHub repositories](https://github.com/bhavya632?tab=repositories)!
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&style=flat-square)](https://linkedin.com/in/bhavyagarwal/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/bhavya632)
+✉️ bhavyaagarwa@umass.edu
+
+---
+
+### 🎶 Outside of Tech...
+
+I love reading, listening to music, and cooking. Cooking is more than a hobby for me—it's a creative outlet that reminds me there are endless ways to approach the same challenge. Whether I'm following a recipe or improvising, I’ve learned to stay creative, keep experimenting, and embrace new perspectives—just like in tech and life!
+
+---
+
+_Thanks for stopping by! If you want to chat about AI/ML, data, languages, or even share your favorite recipe or song, feel free to connect._
+
 - ⚡ Fun fact: ...
 -->
