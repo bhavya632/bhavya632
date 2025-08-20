@@ -9,10 +9,12 @@
 I'm an enthusiastic learner and builder passionate about artificial intelligence, machine learning, and data science. Currently, I'm pursuing a BS in Computer Science and Mathematics with a minor in Linguistics at UMass Amherst, where I'm always looking for ways to blend technology, logic, and language.
 
 - 🌱 **Currently Learning:** Advanced ML, Azure & AWS, scalable AI solutions
-- 💼 **Internships/Fellowships:**  
+- 💼 **Internships/Fellowships/experience:**  
   - AI/ML Engineering Intern @ Center for Data Science, UMass  
   - ML/AI Fellow @ Break Through Tech AI (MIT)
+  - Resident Assistant @ UMass Amherst
 - 📚 **Coursework:** Data Structures, OOP, ML Foundations, AI, Computer Systems, Statistics, ML in Azure, and more
+- ⚡ **Fun fact:** I once read over 200 novels in a year!
 
 ---
 
@@ -51,5 +53,3 @@ I love reading, listening to music, and cooking. Cooking is more than a hobby fo
 
 _Thanks for stopping by! If you want to chat about AI/ML, data, languages, or even share your favorite recipe or song, feel free to connect._
 
-- ⚡ Fun fact: ...
--->
