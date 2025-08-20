@@ -28,7 +28,7 @@ I'm an enthusiastic learner and builder passionate about artificial intelligence
   _Break Through Tech — Michelin Mobility Intelligence_  
   Developed a Python/ML/LLM-powered model for spatial data analysis and visualization, with an intuitive NL interface and real-time dialogue.
 
-- **[Airbnb Superhost & Price Prediction Models](https://github.com/bhavya632/airbnb-superhost-price-prediction)**  
+- **[Airbnb Superhost & Price Prediction Models](https://github.com/bhavya632/BITTAI-portfolio)**  
   Independent project using Python, scikit-learn, and data visualization to estimate Airbnb listing prices and predict “Superhost” status.
 
 Want to see more? Check out my [GitHub repositories](https://github.com/bhavya632?tab=repositories)!
