@@ -24,7 +24,7 @@ I'm an enthusiastic learner and builder passionate about artificial intelligence
 
 ### 🌟 Featured Projects
 
-- **[Road Safety Intelligence Model](https://github.com/bhavya632/road-safety-intelligence-model)**  
+- **[Road Safety Intelligence Model](https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM.git)**  
   _Break Through Tech — Michelin Mobility Intelligence_  
   Developed a Python/ML/LLM-powered model for spatial data analysis and visualization, with an intuitive NL interface and real-time dialogue.
 
