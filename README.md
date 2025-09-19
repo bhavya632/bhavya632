@@ -33,6 +33,9 @@ I'm an enthusiastic learner and builder passionate about artificial intelligence
 - **[Airbnb Superhost & Price Prediction Models](https://github.com/bhavya632/BITTAI-portfolio)**  
   Independent project using Python, scikit-learn, and data visualization to estimate Airbnb listing prices and predict “Superhost” status.
 
+- **[CharacterGPT: Evaluating LLM Memorization on Friends Dataset](https://github.com/bhavya632/CharacterGPT.git)**
+  Explored how LLMs mimic Friends characters, comparing memorization vs. generalization using transcript-based contexts, semantic similarity, and text generation metrics.
+
 Want to see more? Check out my [GitHub repositories](https://github.com/bhavya632?tab=repositories)!
 
 ---
