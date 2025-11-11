@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm an enthusiastic learner and builder passionate about artificial intelligence, machine learning, and data science. Currently, I'm pursuing a BS in Computer Science and Mathematics with a minor in Linguistics at UMass Amherst, where I'm always looking for ways to blend technology, logic, and language.
+I am an enthusiastic learner and builder passionate about artificial intelligence, machine learning, and data science. Currently, I am pursuing a BS in Computer Science and Mathematics with a minor in Linguistics at UMass Amherst, where I am always looking for ways to blend technology, logic, and language.
 
 - 🌱 **Currently Learning:** Advanced ML, Azure & AWS, scalable AI solutions
 - 💼 **Internships/Fellowships/experience:**  
@@ -50,7 +50,7 @@ Want to see more? Check out my [GitHub repositories](https://github.com/bhavya63
 
 ### 🎶 Outside of Tech...
 
-I love reading, listening to music, and cooking. Cooking is more than a hobby for me—it's a creative outlet that reminds me there are endless ways to approach the same challenge. Whether I'm following a recipe or improvising, I’ve learned to stay creative, keep experimenting, and embrace new perspectives—just like in tech and life!
+I love reading, listening to music, and cooking. Cooking is more than a hobby for me, it's a creative outlet that reminds me there are endless ways to approach the same challenge. Whether I am following a recipe or improvising, I have learned to stay creative, keep experimenting, and embrace new perspectives, just like in tech and life!
 
 ---
 
