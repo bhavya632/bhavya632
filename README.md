@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhavya Agarwal!
+# 👋 Hi, I am Bhavya Agarwal!
 
 **AI/ML Engineering Intern | Computer Science & Mathematics @ UMass Amherst | Linguistics Minor**
 
