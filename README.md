@@ -1,6 +1,6 @@
 # 👋 Hi, I am Bhavya Agarwal!
 
-**AI/ML Engineering Intern | Computer Science & Mathematics @ UMass Amherst | Linguistics Minor**
+**AI/ML Engineering Intern | Computer Science & Statistics @ UMass Amherst **
 
 ---
 
@@ -35,6 +35,8 @@ I am an enthusiastic learner and builder passionate about artificial intelligenc
 
 - **[CharacterGPT: Evaluating LLM Memorization on Friends Dataset](https://github.com/bhavya632/CharacterGPT.git)**
   Explored how LLMs mimic Friends characters, comparing memorization vs. generalization using transcript-based contexts, semantic similarity, and text generation metrics.
+
+- **[Personal Portfolio](https://bhavya632.github.io/Bhavya-agarwal-Portfolio/)**
 
 Want to see more? Check out my [GitHub repositories](https://github.com/bhavya632?tab=repositories)!
 
